@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93861111555",
+    "project_id": "flip-coin-2b765",
+    "storage_bucket": "flip-coin-2b765.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93861111555:android:af85a175dc79ed4afcab36",
+        "android_client_info": {
+          "package_name": "com.roulette.flip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZNX5nWU0OhtjL9aVuv2las3LX4t3otLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

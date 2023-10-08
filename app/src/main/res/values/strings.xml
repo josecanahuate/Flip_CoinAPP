@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flip Coin</string>
+    <string name="tituloflip">Cara o Cruz</string>
+    <string name="subtituloflip">Simula el azar con nuestra moneda virtual</string>
+    <string name="anunciobanner">ca-app-pub-4434685305331116/8898807157</string>
+    <string name="cara">Cara: 0</string>
+    <string name="cruz">Cruz: 0</string>
+    <string name="carares">Cara</string>
+    <string name="cruzres">Cruz</string>
+    <string name="boton">Lanzar Moneda</string>
+</resources>

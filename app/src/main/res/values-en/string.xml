@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flip Coin</string>
+    <string name="tituloflip">Heads or Tails</string>
+    <string name="subtituloflip">Try your luck with our virtual coin</string>
+    <string name="anunciobanner">ca-app-pub-4434685305331116/8898807157</string>
+    <string name="cara">Heads: 0</string>
+    <string name="cruz">Tails: 0</string>
+    <string name="carares">Heads</string>
+    <string name="cruzres">Tails</string>
+    <string name="boton">Flip Coin</string>
+</resources>
